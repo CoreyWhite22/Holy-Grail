@@ -1,4 +1,4 @@
-# react-holygrail
+# React Holy Grail
 
 <img src="pic14.png" width='300'/>
 
