@@ -1,2 +1,5 @@
 # react-holygrail
-React Holy Grail - State of each column shared with the rest
+
+<img src="pic14.png" width='300'/>
+
+The holy grail layout. The state of each column is shared with the rest.
